@@ -6,5 +6,4 @@ Namaaaaaaaaa
 Ini adalah namaaaaa
 
 
-
-Roger Alexander SIburian
+Ini tugas Intern
