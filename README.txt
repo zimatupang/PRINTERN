@@ -4,7 +4,7 @@
 
 
 
-Saya ### **Roger Alexsander Siburian** ###, seorang mahasiswa Telkom University dan jurusan yang saya ambil adalah Sistem Informasi angkatan 2016 dengan NIM ### **1202162384** ###. Saya berasal dari Kutai Kartanegara dan saat ini menetap di Jl. Ciganitri, Bandung.
+Saya **Roger Alexsander Siburian**, seorang mahasiswa Telkom University dan jurusan yang saya ambil adalah Sistem Informasi angkatan 2016 dengan NIM **1202162384**. Saya berasal dari Kutai Kartanegara dan saat ini menetap di Jl. Ciganitri, Bandung.
 
 Saya memiliki ketertarikan dibidang teknologi, yang akhirnya menjadi alasan saya memilih Jurusan Sistem Informasi dan mengikuti rekruitasi [Computing Laboratory Study Group](https://computing-awesome.firebaseapp.com/).
 Salah satu tokoh idola saya adalah [Bill Gates](https://www.gatesnotes.com/), yang menciptakan program dengan algoritma yang kompleks. Tetapi tidak hanya menciptakan, dia juga dapat memasarkannya dengan baik sehingga produknya menjadi salah satu produk paling laku dan paling bermanfaat didunia.
